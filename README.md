@@ -1,0 +1,1 @@
+# solar-module-analyser
